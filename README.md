@@ -12,13 +12,6 @@ Orchestrate is a MERN stack application designed specifically for artist manager
 - user: admin@admin.com 
 - password: 123456
 
-## Author(s)
-
--   [Josh Stevens](https://github.com/jstevens79)
--   [Luke Duran](https://github.com/lukeduran)
--   [Zach Matthews](https://github.com/zmatthews33)
--   [Weslley Braga](https://github.com/wesbragagt)
-
 ## Technologies Used
 
 -   React
